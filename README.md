@@ -1,6 +1,6 @@
 # Note
 
-This version supports VGA666 With connected VGA to SCART cable to a CRT TV. Fully Tested and Working with several systems.
+This version supports VGA666 With connected VGA to SCART cable to a CRT TV. Fully Tested and Working using a RetroPie 4.4 image for RaspberryPi 2/3 emulating several systems, none looked bad on my Trinitron KV-29FX30E.
 
 NOTE: Confirmed working on RetroPie v4.3 and v4.4!! :D
 
