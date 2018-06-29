@@ -1,3 +1,7 @@
+# Note
+
+This version supports VGA666 With connected VGA to SCART cable to a CRT TV. Fully Tested and Working with several systems.
+
 NOTE: Confirmed working on RetroPie v4.3 and v4.4!! :D
 
 # retroTINK-setup (Should work for RGB-Pi users as well!)
