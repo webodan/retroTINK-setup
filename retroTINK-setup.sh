@@ -2,7 +2,7 @@
 #
 # COMMAND TO RUN FROM PI SSH/TERMINAL;
 #
-# sudo apt-get install wget git -y && cd /home/pi/ && git clone https://github.com/Vykyan/retroTINK-setup.git && cd retroTINK-setup && chmod +x ./retroTINK-setup.sh && sudo ./retroTINK-setup.sh
+# sudo apt-get install wget git -y && cd /home/pi/ && git clone https://github.com/webodan/retroTINK-setup.git && cd retroTINK-setup && chmod +x ./retroTINK-setup.sh && sudo ./retroTINK-setup.sh
 #
 # Reminder 
 # executable files = mode 755
