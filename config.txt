@@ -1,13 +1,21 @@
-# Overclock to 1.4 optimal (Require good PSU)
-# Uncomment to unlead the RetroTINK! (Maybe change arm_freq if you get crashes)
-#arm_freq=1400
-#gpu_freq=500
-#core_freq=500
-#sdram_freq=500
-#sdram_schmoo=0x02000020
-#over_voltage=6
-#sdram_over_voltage=2
-#force_turbo=1
+# Power-saving overclock.
+
+arm_freq=1000
+gpu_freq=500
+core_freq=500
+sdram_freq=400
+
+# Disable the ACT LED.
+dtparam=act_led_trigger=none
+dtparam=act_led_activelow=off
+
+# Disable the PWR LED.
+dtparam=pwr_led_trigger=none
+dtparam=pwr_led_activelow=off
+
+# Disable the Ethernet LEDs. 
+dtparam=eth_led0=14 
+dtparam=eth_led1=14
 
 dtparam=audio=on
 gpu_mem_256=128
