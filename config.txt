@@ -9,9 +9,15 @@ sdram_freq=400
 dtparam=act_led_trigger=none
 dtparam=act_led_activelow=off
 
+#pi3 b+ version
+act_led_trigger=none
+
 # Disable the PWR LED.
 dtparam=pwr_led_trigger=none
 dtparam=pwr_led_activelow=off
+
+#pi3 b+ version
+pwr_led_trigger=none
 
 # Disable the Ethernet LEDs. 
 dtparam=eth_led0=14 
